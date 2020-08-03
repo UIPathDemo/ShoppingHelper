@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<!--<base target="_new">-->
+	<base href="." target="_new">
+	<style type="text/css">
+		body {
+			font-family: Tahoma, Verdana, Arial;
+			position: absolute;
+			height: 95%;
+			width: 95%;
+			font-size: 12px;
+		}
+
+		pre.mscrmpretag {
+			word-wrap: break-word;
+			white-space: pre-wrap;
+		}
+	</style>
+	<link rel="stylesheet" href="./msgBody_files/controls.css.aspx">
+</head>
+
+<body bgcolor="#ebeef0" lang="EN-US" style="margin:0;width:100%;">
+	<div class="WordSection1">
+		<table cellpadding="0" cellspacing="0" border="0" width="100%" class="MsoNormalTable">
+			<tbody>
+				<tr>
+					<td width="89%" style="width:100%;padding:68pt 60pt 40pt 60pt;">
+						<table cellspacing="0" cellpadding="0" border="0" class="MsoNormalTable" style="width:100%;">
+							<tbody>
+								<tr>
+									<td valign="top" bgcolor="white" style="padding:66px;">
+										<p class="MsoNormal">
+											<span style="color:#464547;font-size:14.0pt;font-family:&quot;Helvetica&quot;,sans-serif;">Здравствуйте,
+												<o:p></o:p>
+											</span>
+										</p>
+										<p class="MsoNormal" style="margin-top:12.0pt;">
+											<span style="color:#999999;font-size:13.0pt;font-family:&quot;Helvetica&quot;,sans-serif;">Робот проанилизировал Вашу корзину подготовил для Вас отчет. Пожажуйста, найдите отчет в приклепленном файле.
+											</span>
+										</p>
+										<p class="MsoNormal" style="margin-top:0.0pt;margin-bottom:0.0pt;">
+											<span style="color:#999999;font-size:13.0pt;font-family:&quot;Helvetica&quot;,sans-serif;">
+												<o:p>&nbsp;</o:p>
+											</span>
+										</p>
+										<p class="MsoNormal" style="margin-top:0.0pt;margin-bottom:0.0pt;">
+											<span style="color:#999999;font-size:13.0pt;font-family:&quot;Helvetica&quot;,sans-serif;">
+												<o:p>&nbsp;</o:p>
+											</span>
+										</p>
+										<p class="MsoNormal" style="margin-top:0,0pt;margin-bottom:0,0pt;">
+											<span style="color:#999999;font-size:13.0pt;font-family:&quot;Helvetica&quot;,sans-serif;">Спасибо.
+												<o:p></o:p>
+											</span>
+										</p>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+					</td>
+				</tr>
+			</tbody>
+		</table>
+	</div>
+</body>
+
+</html>

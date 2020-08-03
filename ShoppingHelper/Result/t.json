@@ -1,0 +1,952 @@
+[
+	{
+		"Model": "ASUS ZenBook 13 Ultra Slim Laptop, 13.3” FHD WideView, 8th-Gen Intel Core i7-8565U CPU, 16GB RAM, 512GB PCIe SSD, Backlit KB, NumberPad, Military Grade, TPM, Windows 10 Pro, UX333FA-AB77, Royal Blue",
+		"Label": "Positive",
+		"Confidence": 0.9152616182
+	},
+	{
+		"Model": "ASUS ZenBook 13 Ultra Slim Laptop, 13.3” FHD WideView, 8th-Gen Intel Core i7-8565U CPU, 16GB RAM, 512GB PCIe SSD, Backlit KB, NumberPad, Military Grade, TPM, Windows 10 Pro, UX333FA-AB77, Royal Blue",
+		"Label": "Positive",
+		"Confidence": 0.9455828519
+	},
+	{
+		"Model": "ASUS ZenBook 13 Ultra Slim Laptop, 13.3” FHD WideView, 8th-Gen Intel Core i7-8565U CPU, 16GB RAM, 512GB PCIe SSD, Backlit KB, NumberPad, Military Grade, TPM, Windows 10 Pro, UX333FA-AB77, Royal Blue",
+		"Label": "Positive",
+		"Confidence": 0.819055001
+	},
+	{
+		"Model": "ASUS ZenBook 13 Ultra Slim Laptop, 13.3” FHD WideView, 8th-Gen Intel Core i7-8565U CPU, 16GB RAM, 512GB PCIe SSD, Backlit KB, NumberPad, Military Grade, TPM, Windows 10 Pro, UX333FA-AB77, Royal Blue",
+		"Label": "Positive",
+		"Confidence": 0.5909483953
+	},
+	{
+		"Model": "ASUS ZenBook 13 Ultra Slim Laptop, 13.3” FHD WideView, 8th-Gen Intel Core i7-8565U CPU, 16GB RAM, 512GB PCIe SSD, Backlit KB, NumberPad, Military Grade, TPM, Windows 10 Pro, UX333FA-AB77, Royal Blue",
+		"Label": "Positive",
+		"Confidence": 0.9300682373
+	},
+	{
+		"Model": "ASUS ZenBook 13 Ultra Slim Laptop, 13.3” FHD WideView, 8th-Gen Intel Core i7-8565U CPU, 16GB RAM, 512GB PCIe SSD, Backlit KB, NumberPad, Military Grade, TPM, Windows 10 Pro, UX333FA-AB77, Royal Blue",
+		"Label": "Positive",
+		"Confidence": 0.8124906003
+	},
+	{
+		"Model": "ASUS ZenBook 13 Ultra Slim Laptop, 13.3” FHD WideView, 8th-Gen Intel Core i7-8565U CPU, 16GB RAM, 512GB PCIe SSD, Backlit KB, NumberPad, Military Grade, TPM, Windows 10 Pro, UX333FA-AB77, Royal Blue",
+		"Label": "Negative",
+		"Confidence": 0.9701683958
+	},
+	{
+		"Model": "ASUS ZenBook 13 Ultra Slim Laptop, 13.3” FHD WideView, 8th-Gen Intel Core i7-8565U CPU, 16GB RAM, 512GB PCIe SSD, Backlit KB, NumberPad, Military Grade, TPM, Windows 10 Pro, UX333FA-AB77, Royal Blue",
+		"Label": "Positive",
+		"Confidence": 0.9947871184
+	},
+	{
+		"Model": "ASUS ZenBook 13 Ultra Slim Laptop, 13.3” FHD WideView, 8th-Gen Intel Core i7-8565U CPU, 16GB RAM, 512GB PCIe SSD, Backlit KB, NumberPad, Military Grade, TPM, Windows 10 Pro, UX333FA-AB77, Royal Blue",
+		"Label": "Positive",
+		"Confidence": 0.9957551209
+	},
+	{
+		"Model": "ASUS ZenBook 13 Ultra Slim Laptop, 13.3” FHD WideView, 8th-Gen Intel Core i7-8565U CPU, 16GB RAM, 512GB PCIe SSD, Backlit KB, NumberPad, Military Grade, TPM, Windows 10 Pro, UX333FA-AB77, Royal Blue",
+		"Label": "Positive",
+		"Confidence": 0.5368354752
+	},
+	{
+		"Model": "Acer Aspire 5 Slim Laptop 15.6 Full HD IPS Display AMD Ryzen 3 3200U, Vega , Silver, 4-10.99 inches",
+		"Label": "Positive",
+		"Confidence": 0.7370785117
+	},
+	{
+		"Model": "Acer Aspire 5 Slim Laptop 15.6 Full HD IPS Display AMD Ryzen 3 3200U, Vega , Silver, 4-10.99 inches",
+		"Label": "Negative",
+		"Confidence": 0.6119934648
+	},
+	{
+		"Model": "Acer Aspire 5 Slim Laptop 15.6 Full HD IPS Display AMD Ryzen 3 3200U, Vega , Silver, 4-10.99 inches",
+		"Label": "Positive",
+		"Confidence": 0.7761824677
+	},
+	{
+		"Model": "Acer Aspire 5 Slim Laptop 15.6 Full HD IPS Display AMD Ryzen 3 3200U, Vega , Silver, 4-10.99 inches",
+		"Label": "Positive",
+		"Confidence": 0.7791817631
+	},
+	{
+		"Model": "Acer Aspire 5 Slim Laptop 15.6 Full HD IPS Display AMD Ryzen 3 3200U, Vega , Silver, 4-10.99 inches",
+		"Label": "Negative",
+		"Confidence": 0.9910465131
+	},
+	{
+		"Model": "Acer Aspire 5 Slim Laptop 15.6 Full HD IPS Display AMD Ryzen 3 3200U, Vega , Silver, 4-10.99 inches",
+		"Label": "Positive",
+		"Confidence": 0.9959723284
+	},
+	{
+		"Model": "Acer Aspire 5 Slim Laptop 15.6 Full HD IPS Display AMD Ryzen 3 3200U, Vega , Silver, 4-10.99 inches",
+		"Label": "Positive",
+		"Confidence": 0.9106307518
+	},
+	{
+		"Model": "Acer Aspire 5 Slim Laptop 15.6 Full HD IPS Display AMD Ryzen 3 3200U, Vega , Silver, 4-10.99 inches",
+		"Label": "Positive",
+		"Confidence": 0.9989969721
+	},
+	{
+		"Model": "Acer Aspire 5 Slim Laptop 15.6 Full HD IPS Display AMD Ryzen 3 3200U, Vega , Silver, 4-10.99 inches",
+		"Label": "Positive",
+		"Confidence": 0.8305681677
+	},
+	{
+		"Model": "Acer Aspire 5 Slim Laptop 15.6 Full HD IPS Display AMD Ryzen 3 3200U, Vega , Silver, 4-10.99 inches",
+		"Label": "Positive",
+		"Confidence": 0.99960384
+	},
+	{
+		"Model": "Lenovo Flex 14 2-in-1 Convertible Laptop, 14 Inch FHD Touchscreen Display, AMD Ryzen 5 3500U Processor, 12GB DDR4 RAM, 256GB NVMe SSD, Windows 10, 81SS000DUS, Black, Pen Included",
+		"Label": "Positive",
+		"Confidence": 0.9576765303
+	},
+	{
+		"Model": "Lenovo Flex 14 2-in-1 Convertible Laptop, 14 Inch FHD Touchscreen Display, AMD Ryzen 5 3500U Processor, 12GB DDR4 RAM, 256GB NVMe SSD, Windows 10, 81SS000DUS, Black, Pen Included",
+		"Label": "Negative",
+		"Confidence": 0.6765378822
+	},
+	{
+		"Model": "Lenovo Flex 14 2-in-1 Convertible Laptop, 14 Inch FHD Touchscreen Display, AMD Ryzen 5 3500U Processor, 12GB DDR4 RAM, 256GB NVMe SSD, Windows 10, 81SS000DUS, Black, Pen Included",
+		"Label": "Negative",
+		"Confidence": 0.5700595
+	},
+	{
+		"Model": "Lenovo Flex 14 2-in-1 Convertible Laptop, 14 Inch FHD Touchscreen Display, AMD Ryzen 5 3500U Processor, 12GB DDR4 RAM, 256GB NVMe SSD, Windows 10, 81SS000DUS, Black, Pen Included",
+		"Label": "Negative",
+		"Confidence": 0.9964160796
+	},
+	{
+		"Model": "Lenovo Flex 14 2-in-1 Convertible Laptop, 14 Inch FHD Touchscreen Display, AMD Ryzen 5 3500U Processor, 12GB DDR4 RAM, 256GB NVMe SSD, Windows 10, 81SS000DUS, Black, Pen Included",
+		"Label": "Negative",
+		"Confidence": 0.7327968397
+	},
+	{
+		"Model": "Lenovo Flex 14 2-in-1 Convertible Laptop, 14 Inch FHD Touchscreen Display, AMD Ryzen 5 3500U Processor, 12GB DDR4 RAM, 256GB NVMe SSD, Windows 10, 81SS000DUS, Black, Pen Included",
+		"Label": "Negative",
+		"Confidence": 0.7182867241
+	},
+	{
+		"Model": "Lenovo Flex 14 2-in-1 Convertible Laptop, 14 Inch FHD Touchscreen Display, AMD Ryzen 5 3500U Processor, 12GB DDR4 RAM, 256GB NVMe SSD, Windows 10, 81SS000DUS, Black, Pen Included",
+		"Label": "Positive",
+		"Confidence": 0.935203795
+	},
+	{
+		"Model": "Lenovo Flex 14 2-in-1 Convertible Laptop, 14 Inch FHD Touchscreen Display, AMD Ryzen 5 3500U Processor, 12GB DDR4 RAM, 256GB NVMe SSD, Windows 10, 81SS000DUS, Black, Pen Included",
+		"Label": "Positive",
+		"Confidence": 0.8845773515
+	},
+	{
+		"Model": "Lenovo Flex 14 2-in-1 Convertible Laptop, 14 Inch FHD Touchscreen Display, AMD Ryzen 5 3500U Processor, 12GB DDR4 RAM, 256GB NVMe SSD, Windows 10, 81SS000DUS, Black, Pen Included",
+		"Label": "Negative",
+		"Confidence": 0.9893866934
+	},
+	{
+		"Model": "Lenovo Flex 14 2-in-1 Convertible Laptop, 14 Inch FHD Touchscreen Display, AMD Ryzen 5 3500U Processor, 12GB DDR4 RAM, 256GB NVMe SSD, Windows 10, 81SS000DUS, Black, Pen Included",
+		"Label": "Positive",
+		"Confidence": 0.9673688384
+	},
+	{
+		"Model": "Lenovo Chromebook C330 2-in-1 Convertible Laptop, 11.6-Inch HD (1366 x 768) IPS Display, MediaTek MT8173C Processor, 4GB LPDDR3, 64 GB eMMC, Chrome OS, 81HY0000US, Blizzard White",
+		"Label": "Positive",
+		"Confidence": 0.9992887443
+	},
+	{
+		"Model": "Lenovo Chromebook C330 2-in-1 Convertible Laptop, 11.6-Inch HD (1366 x 768) IPS Display, MediaTek MT8173C Processor, 4GB LPDDR3, 64 GB eMMC, Chrome OS, 81HY0000US, Blizzard White",
+		"Label": "Negative",
+		"Confidence": 0.6564165306
+	},
+	{
+		"Model": "Lenovo Chromebook C330 2-in-1 Convertible Laptop, 11.6-Inch HD (1366 x 768) IPS Display, MediaTek MT8173C Processor, 4GB LPDDR3, 64 GB eMMC, Chrome OS, 81HY0000US, Blizzard White",
+		"Label": "Positive",
+		"Confidence": 0.6846887154
+	},
+	{
+		"Model": "Lenovo Chromebook C330 2-in-1 Convertible Laptop, 11.6-Inch HD (1366 x 768) IPS Display, MediaTek MT8173C Processor, 4GB LPDDR3, 64 GB eMMC, Chrome OS, 81HY0000US, Blizzard White",
+		"Label": "Negative",
+		"Confidence": 0.9186312436
+	},
+	{
+		"Model": "Lenovo Chromebook C330 2-in-1 Convertible Laptop, 11.6-Inch HD (1366 x 768) IPS Display, MediaTek MT8173C Processor, 4GB LPDDR3, 64 GB eMMC, Chrome OS, 81HY0000US, Blizzard White",
+		"Label": "Negative",
+		"Confidence": 0.9676017005
+	},
+	{
+		"Model": "Lenovo Chromebook C330 2-in-1 Convertible Laptop, 11.6-Inch HD (1366 x 768) IPS Display, MediaTek MT8173C Processor, 4GB LPDDR3, 64 GB eMMC, Chrome OS, 81HY0000US, Blizzard White",
+		"Label": "Positive",
+		"Confidence": 0.8563029622
+	},
+	{
+		"Model": "Lenovo Chromebook C330 2-in-1 Convertible Laptop, 11.6-Inch HD (1366 x 768) IPS Display, MediaTek MT8173C Processor, 4GB LPDDR3, 64 GB eMMC, Chrome OS, 81HY0000US, Blizzard White",
+		"Label": "Positive",
+		"Confidence": 0.9958823514
+	},
+	{
+		"Model": "Lenovo Chromebook C330 2-in-1 Convertible Laptop, 11.6-Inch HD (1366 x 768) IPS Display, MediaTek MT8173C Processor, 4GB LPDDR3, 64 GB eMMC, Chrome OS, 81HY0000US, Blizzard White",
+		"Label": "Positive",
+		"Confidence": 0.8580114558
+	},
+	{
+		"Model": "Lenovo Chromebook C330 2-in-1 Convertible Laptop, 11.6-Inch HD (1366 x 768) IPS Display, MediaTek MT8173C Processor, 4GB LPDDR3, 64 GB eMMC, Chrome OS, 81HY0000US, Blizzard White",
+		"Label": "Positive",
+		"Confidence": 0.841302942
+	},
+	{
+		"Model": "Lenovo Chromebook C330 2-in-1 Convertible Laptop, 11.6-Inch HD (1366 x 768) IPS Display, MediaTek MT8173C Processor, 4GB LPDDR3, 64 GB eMMC, Chrome OS, 81HY0000US, Blizzard White",
+		"Label": "Positive",
+		"Confidence": 0.9991319214
+	},
+	{
+		"Model": "ASUS VivoBook 15 Thin and Light Laptop, 15.6” FHD, Intel Core i3-8145U CPU, 8GB RAM, 128GB SSD, Windows 10 in S Mode, F512FA-AB34, Slate Gray",
+		"Label": "Negative",
+		"Confidence": 0.9977091748
+	},
+	{
+		"Model": "ASUS VivoBook 15 Thin and Light Laptop, 15.6” FHD, Intel Core i3-8145U CPU, 8GB RAM, 128GB SSD, Windows 10 in S Mode, F512FA-AB34, Slate Gray",
+		"Label": "Negative",
+		"Confidence": 0.662814473
+	},
+	{
+		"Model": "ASUS VivoBook 15 Thin and Light Laptop, 15.6” FHD, Intel Core i3-8145U CPU, 8GB RAM, 128GB SSD, Windows 10 in S Mode, F512FA-AB34, Slate Gray",
+		"Label": "Positive",
+		"Confidence": 0.9541128506
+	},
+	{
+		"Model": "ASUS VivoBook 15 Thin and Light Laptop, 15.6” FHD, Intel Core i3-8145U CPU, 8GB RAM, 128GB SSD, Windows 10 in S Mode, F512FA-AB34, Slate Gray",
+		"Label": "Negative",
+		"Confidence": 0.9787115613
+	},
+	{
+		"Model": "ASUS VivoBook 15 Thin and Light Laptop, 15.6” FHD, Intel Core i3-8145U CPU, 8GB RAM, 128GB SSD, Windows 10 in S Mode, F512FA-AB34, Slate Gray",
+		"Label": "Positive",
+		"Confidence": 0.945881053
+	},
+	{
+		"Model": "ASUS VivoBook 15 Thin and Light Laptop, 15.6” FHD, Intel Core i3-8145U CPU, 8GB RAM, 128GB SSD, Windows 10 in S Mode, F512FA-AB34, Slate Gray",
+		"Label": "Negative",
+		"Confidence": 0.9428366895
+	},
+	{
+		"Model": "ASUS VivoBook 15 Thin and Light Laptop, 15.6” FHD, Intel Core i3-8145U CPU, 8GB RAM, 128GB SSD, Windows 10 in S Mode, F512FA-AB34, Slate Gray",
+		"Label": "Positive",
+		"Confidence": 0.5350698556
+	},
+	{
+		"Model": "ASUS VivoBook 15 Thin and Light Laptop, 15.6” FHD, Intel Core i3-8145U CPU, 8GB RAM, 128GB SSD, Windows 10 in S Mode, F512FA-AB34, Slate Gray",
+		"Label": "Positive",
+		"Confidence": 0.9698984677
+	},
+	{
+		"Model": "ASUS VivoBook 15 Thin and Light Laptop, 15.6” FHD, Intel Core i3-8145U CPU, 8GB RAM, 128GB SSD, Windows 10 in S Mode, F512FA-AB34, Slate Gray",
+		"Label": "Positive",
+		"Confidence": 0.9978226761
+	},
+	{
+		"Model": "ASUS VivoBook 15 Thin and Light Laptop, 15.6” FHD, Intel Core i3-8145U CPU, 8GB RAM, 128GB SSD, Windows 10 in S Mode, F512FA-AB34, Slate Gray",
+		"Label": "Positive",
+		"Confidence": 0.9970498258
+	},
+	{
+		"Model": "ASUS ZenBook 13 Ultra-Slim Laptop- 13.3” Full HD Wideview, 8th Gen Intel Core I5-8265U, 8GB LPDDR3, 512GB PCIe SSD, Backlit KB, Fingerprint, Windows 10- UX331FA-AS51 Slate Grey",
+		"Label": "Positive",
+		"Confidence": 0.9910376329
+	},
+	{
+		"Model": "ASUS ZenBook 13 Ultra-Slim Laptop- 13.3” Full HD Wideview, 8th Gen Intel Core I5-8265U, 8GB LPDDR3, 512GB PCIe SSD, Backlit KB, Fingerprint, Windows 10- UX331FA-AS51 Slate Grey",
+		"Label": "Positive",
+		"Confidence": 0.9473468304
+	},
+	{
+		"Model": "ASUS ZenBook 13 Ultra-Slim Laptop- 13.3” Full HD Wideview, 8th Gen Intel Core I5-8265U, 8GB LPDDR3, 512GB PCIe SSD, Backlit KB, Fingerprint, Windows 10- UX331FA-AS51 Slate Grey",
+		"Label": "Positive",
+		"Confidence": 0.9447407251
+	},
+	{
+		"Model": "ASUS ZenBook 13 Ultra-Slim Laptop- 13.3” Full HD Wideview, 8th Gen Intel Core I5-8265U, 8GB LPDDR3, 512GB PCIe SSD, Backlit KB, Fingerprint, Windows 10- UX331FA-AS51 Slate Grey",
+		"Label": "Negative",
+		"Confidence": 0.9769227734
+	},
+	{
+		"Model": "ASUS ZenBook 13 Ultra-Slim Laptop- 13.3” Full HD Wideview, 8th Gen Intel Core I5-8265U, 8GB LPDDR3, 512GB PCIe SSD, Backlit KB, Fingerprint, Windows 10- UX331FA-AS51 Slate Grey",
+		"Label": "Negative",
+		"Confidence": 0.7971539779
+	},
+	{
+		"Model": "ASUS ZenBook 13 Ultra-Slim Laptop- 13.3” Full HD Wideview, 8th Gen Intel Core I5-8265U, 8GB LPDDR3, 512GB PCIe SSD, Backlit KB, Fingerprint, Windows 10- UX331FA-AS51 Slate Grey",
+		"Label": "Negative",
+		"Confidence": 0.9144821299
+	},
+	{
+		"Model": "ASUS ZenBook 13 Ultra-Slim Laptop- 13.3” Full HD Wideview, 8th Gen Intel Core I5-8265U, 8GB LPDDR3, 512GB PCIe SSD, Backlit KB, Fingerprint, Windows 10- UX331FA-AS51 Slate Grey",
+		"Label": "Positive",
+		"Confidence": 0.9946466069
+	},
+	{
+		"Model": "ASUS ZenBook 13 Ultra-Slim Laptop- 13.3” Full HD Wideview, 8th Gen Intel Core I5-8265U, 8GB LPDDR3, 512GB PCIe SSD, Backlit KB, Fingerprint, Windows 10- UX331FA-AS51 Slate Grey",
+		"Label": "Negative",
+		"Confidence": 0.9930653013
+	},
+	{
+		"Model": "ASUS ZenBook 13 Ultra-Slim Laptop- 13.3” Full HD Wideview, 8th Gen Intel Core I5-8265U, 8GB LPDDR3, 512GB PCIe SSD, Backlit KB, Fingerprint, Windows 10- UX331FA-AS51 Slate Grey",
+		"Label": "Positive",
+		"Confidence": 0.8330902482
+	},
+	{
+		"Model": "ASUS ZenBook 13 Ultra-Slim Laptop- 13.3” Full HD Wideview, 8th Gen Intel Core I5-8265U, 8GB LPDDR3, 512GB PCIe SSD, Backlit KB, Fingerprint, Windows 10- UX331FA-AS51 Slate Grey",
+		"Label": "Negative",
+		"Confidence": 0.9859333275
+	},
+	{
+		"Model": "LG gram Laptop - 13.3\" Full HD Display, Intel 8th Gen Core i5, 8GB RAM, 256GB SSD, 24.5 Hour Battery, 13Z990-U.AAW5U1 (2019), White",
+		"Label": "Positive",
+		"Confidence": 0.9630984759
+	},
+	{
+		"Model": "LG gram Laptop - 13.3\" Full HD Display, Intel 8th Gen Core i5, 8GB RAM, 256GB SSD, 24.5 Hour Battery, 13Z990-U.AAW5U1 (2019), White",
+		"Label": "Positive",
+		"Confidence": 0.8556454747
+	},
+	{
+		"Model": "LG gram Laptop - 13.3\" Full HD Display, Intel 8th Gen Core i5, 8GB RAM, 256GB SSD, 24.5 Hour Battery, 13Z990-U.AAW5U1 (2019), White",
+		"Label": "Positive",
+		"Confidence": 0.9394231104
+	},
+	{
+		"Model": "LG gram Laptop - 13.3\" Full HD Display, Intel 8th Gen Core i5, 8GB RAM, 256GB SSD, 24.5 Hour Battery, 13Z990-U.AAW5U1 (2019), White",
+		"Label": "Negative",
+		"Confidence": 0.8686769221
+	},
+	{
+		"Model": "LG gram Laptop - 13.3\" Full HD Display, Intel 8th Gen Core i5, 8GB RAM, 256GB SSD, 24.5 Hour Battery, 13Z990-U.AAW5U1 (2019), White",
+		"Label": "Positive",
+		"Confidence": 0.8823843238
+	},
+	{
+		"Model": "LG gram Laptop - 13.3\" Full HD Display, Intel 8th Gen Core i5, 8GB RAM, 256GB SSD, 24.5 Hour Battery, 13Z990-U.AAW5U1 (2019), White",
+		"Label": "Positive",
+		"Confidence": 0.992624002
+	},
+	{
+		"Model": "LG gram Laptop - 13.3\" Full HD Display, Intel 8th Gen Core i5, 8GB RAM, 256GB SSD, 24.5 Hour Battery, 13Z990-U.AAW5U1 (2019), White",
+		"Label": "Positive",
+		"Confidence": 0.901726913
+	},
+	{
+		"Model": "LG gram Laptop - 13.3\" Full HD Display, Intel 8th Gen Core i5, 8GB RAM, 256GB SSD, 24.5 Hour Battery, 13Z990-U.AAW5U1 (2019), White",
+		"Label": "Negative",
+		"Confidence": 0.9950929731
+	},
+	{
+		"Model": "LG gram Laptop - 13.3\" Full HD Display, Intel 8th Gen Core i5, 8GB RAM, 256GB SSD, 24.5 Hour Battery, 13Z990-U.AAW5U1 (2019), White",
+		"Label": "Negative",
+		"Confidence": 0.9983974338
+	},
+	{
+		"Model": "LG gram Laptop - 13.3\" Full HD Display, Intel 8th Gen Core i5, 8GB RAM, 256GB SSD, 24.5 Hour Battery, 13Z990-U.AAW5U1 (2019), White",
+		"Label": "Positive",
+		"Confidence": 0.6165157121
+	},
+	{
+		"Model": "Asus Laptop E406 Thin & Light Laptop, 14\" FHD, Intel Pentium Silver N5000 Processor, 4GB RAM, 128GB eMMC Storage, Wi-Fi 5, Fingerprint Reader, Windows 10, E406MA-DH21, Star Gray",
+		"Label": "Positive",
+		"Confidence": 0.8629234476
+	},
+	{
+		"Model": "Asus Laptop E406 Thin & Light Laptop, 14\" FHD, Intel Pentium Silver N5000 Processor, 4GB RAM, 128GB eMMC Storage, Wi-Fi 5, Fingerprint Reader, Windows 10, E406MA-DH21, Star Gray",
+		"Label": "Positive",
+		"Confidence": 0.8822439273
+	},
+	{
+		"Model": "Asus Laptop E406 Thin & Light Laptop, 14\" FHD, Intel Pentium Silver N5000 Processor, 4GB RAM, 128GB eMMC Storage, Wi-Fi 5, Fingerprint Reader, Windows 10, E406MA-DH21, Star Gray",
+		"Label": "Negative",
+		"Confidence": 0.9956710669
+	},
+	{
+		"Model": "Asus Laptop E406 Thin & Light Laptop, 14\" FHD, Intel Pentium Silver N5000 Processor, 4GB RAM, 128GB eMMC Storage, Wi-Fi 5, Fingerprint Reader, Windows 10, E406MA-DH21, Star Gray",
+		"Label": "Positive",
+		"Confidence": 0.7026111621
+	},
+	{
+		"Model": "Asus Laptop E406 Thin & Light Laptop, 14\" FHD, Intel Pentium Silver N5000 Processor, 4GB RAM, 128GB eMMC Storage, Wi-Fi 5, Fingerprint Reader, Windows 10, E406MA-DH21, Star Gray",
+		"Label": "Positive",
+		"Confidence": 0.9660196739
+	},
+	{
+		"Model": "Asus Laptop E406 Thin & Light Laptop, 14\" FHD, Intel Pentium Silver N5000 Processor, 4GB RAM, 128GB eMMC Storage, Wi-Fi 5, Fingerprint Reader, Windows 10, E406MA-DH21, Star Gray",
+		"Label": "Negative",
+		"Confidence": 0.8870933162
+	},
+	{
+		"Model": "Asus Laptop E406 Thin & Light Laptop, 14\" FHD, Intel Pentium Silver N5000 Processor, 4GB RAM, 128GB eMMC Storage, Wi-Fi 5, Fingerprint Reader, Windows 10, E406MA-DH21, Star Gray",
+		"Label": "Positive",
+		"Confidence": 0.8232348415
+	},
+	{
+		"Model": "Asus Laptop E406 Thin & Light Laptop, 14\" FHD, Intel Pentium Silver N5000 Processor, 4GB RAM, 128GB eMMC Storage, Wi-Fi 5, Fingerprint Reader, Windows 10, E406MA-DH21, Star Gray",
+		"Label": "Negative",
+		"Confidence": 0.6065636755
+	},
+	{
+		"Model": "Asus Laptop E406 Thin & Light Laptop, 14\" FHD, Intel Pentium Silver N5000 Processor, 4GB RAM, 128GB eMMC Storage, Wi-Fi 5, Fingerprint Reader, Windows 10, E406MA-DH21, Star Gray",
+		"Label": "Positive",
+		"Confidence": 0.5916197899
+	},
+	{
+		"Model": "Asus Laptop E406 Thin & Light Laptop, 14\" FHD, Intel Pentium Silver N5000 Processor, 4GB RAM, 128GB eMMC Storage, Wi-Fi 5, Fingerprint Reader, Windows 10, E406MA-DH21, Star Gray",
+		"Label": "Positive",
+		"Confidence": 0.9281167513
+	},
+	{
+		"Model": "ASUS ZenBook S UX391UA-XB71-R Ultra-thin and light 13.3-inch Full HD Laptop, Intel Core i7-8550U, 8GB RAM, 256GB M.2 SSD, Windows 10 Pro, FP Sensor, Thunderbolt, Burgundy Red",
+		"Label": "Negative",
+		"Confidence": 0.9688427351
+	},
+	{
+		"Model": "ASUS ZenBook S UX391UA-XB71-R Ultra-thin and light 13.3-inch Full HD Laptop, Intel Core i7-8550U, 8GB RAM, 256GB M.2 SSD, Windows 10 Pro, FP Sensor, Thunderbolt, Burgundy Red",
+		"Label": "Positive",
+		"Confidence": 0.7549886423
+	},
+	{
+		"Model": "ASUS ZenBook S UX391UA-XB71-R Ultra-thin and light 13.3-inch Full HD Laptop, Intel Core i7-8550U, 8GB RAM, 256GB M.2 SSD, Windows 10 Pro, FP Sensor, Thunderbolt, Burgundy Red",
+		"Label": "Negative",
+		"Confidence": 0.5892802005
+	},
+	{
+		"Model": "ASUS ZenBook S UX391UA-XB71-R Ultra-thin and light 13.3-inch Full HD Laptop, Intel Core i7-8550U, 8GB RAM, 256GB M.2 SSD, Windows 10 Pro, FP Sensor, Thunderbolt, Burgundy Red",
+		"Label": "Positive",
+		"Confidence": 0.7524759973
+	},
+	{
+		"Model": "ASUS ZenBook S UX391UA-XB71-R Ultra-thin and light 13.3-inch Full HD Laptop, Intel Core i7-8550U, 8GB RAM, 256GB M.2 SSD, Windows 10 Pro, FP Sensor, Thunderbolt, Burgundy Red",
+		"Label": "Positive",
+		"Confidence": 0.9931745814
+	},
+	{
+		"Model": "ASUS ZenBook S UX391UA-XB71-R Ultra-thin and light 13.3-inch Full HD Laptop, Intel Core i7-8550U, 8GB RAM, 256GB M.2 SSD, Windows 10 Pro, FP Sensor, Thunderbolt, Burgundy Red",
+		"Label": "Negative",
+		"Confidence": 0.7229645298
+	},
+	{
+		"Model": "ASUS ZenBook S UX391UA-XB71-R Ultra-thin and light 13.3-inch Full HD Laptop, Intel Core i7-8550U, 8GB RAM, 256GB M.2 SSD, Windows 10 Pro, FP Sensor, Thunderbolt, Burgundy Red",
+		"Label": "Positive",
+		"Confidence": 0.5058638788
+	},
+	{
+		"Model": "ASUS ZenBook S UX391UA-XB71-R Ultra-thin and light 13.3-inch Full HD Laptop, Intel Core i7-8550U, 8GB RAM, 256GB M.2 SSD, Windows 10 Pro, FP Sensor, Thunderbolt, Burgundy Red",
+		"Label": "Negative",
+		"Confidence": 0.6759356652
+	},
+	{
+		"Model": "ASUS ZenBook S UX391UA-XB71-R Ultra-thin and light 13.3-inch Full HD Laptop, Intel Core i7-8550U, 8GB RAM, 256GB M.2 SSD, Windows 10 Pro, FP Sensor, Thunderbolt, Burgundy Red",
+		"Label": "Negative",
+		"Confidence": 0.633642144
+	},
+	{
+		"Model": "ASUS ZenBook S UX391UA-XB71-R Ultra-thin and light 13.3-inch Full HD Laptop, Intel Core i7-8550U, 8GB RAM, 256GB M.2 SSD, Windows 10 Pro, FP Sensor, Thunderbolt, Burgundy Red",
+		"Label": "Positive",
+		"Confidence": 0.7310265009
+	},
+	{
+		"Model": "Asus TUF Gaming Laptop FX504 15.6\" Full HD IPS-Level, 8th Gen Intel Core i5-8300H (Up to 3.9GHz), GeForce GTX 1050, 8GB DDR4 2666MHz, 256GB M.2 SSD, Gigabit WiFi, Windows 10 - FX504GD-NH51",
+		"Label": "Positive",
+		"Confidence": 0.7585333615
+	},
+	{
+		"Model": "Asus TUF Gaming Laptop FX504 15.6\" Full HD IPS-Level, 8th Gen Intel Core i5-8300H (Up to 3.9GHz), GeForce GTX 1050, 8GB DDR4 2666MHz, 256GB M.2 SSD, Gigabit WiFi, Windows 10 - FX504GD-NH51",
+		"Label": "Negative",
+		"Confidence": 0.9423582304
+	},
+	{
+		"Model": "Asus TUF Gaming Laptop FX504 15.6\" Full HD IPS-Level, 8th Gen Intel Core i5-8300H (Up to 3.9GHz), GeForce GTX 1050, 8GB DDR4 2666MHz, 256GB M.2 SSD, Gigabit WiFi, Windows 10 - FX504GD-NH51",
+		"Label": "Negative",
+		"Confidence": 0.6668626199
+	},
+	{
+		"Model": "Asus TUF Gaming Laptop FX504 15.6\" Full HD IPS-Level, 8th Gen Intel Core i5-8300H (Up to 3.9GHz), GeForce GTX 1050, 8GB DDR4 2666MHz, 256GB M.2 SSD, Gigabit WiFi, Windows 10 - FX504GD-NH51",
+		"Label": "Negative",
+		"Confidence": 0.6054883398
+	},
+	{
+		"Model": "Asus TUF Gaming Laptop FX504 15.6\" Full HD IPS-Level, 8th Gen Intel Core i5-8300H (Up to 3.9GHz), GeForce GTX 1050, 8GB DDR4 2666MHz, 256GB M.2 SSD, Gigabit WiFi, Windows 10 - FX504GD-NH51",
+		"Label": "Negative",
+		"Confidence": 0.9654465353
+	},
+	{
+		"Model": "Asus TUF Gaming Laptop FX504 15.6\" Full HD IPS-Level, 8th Gen Intel Core i5-8300H (Up to 3.9GHz), GeForce GTX 1050, 8GB DDR4 2666MHz, 256GB M.2 SSD, Gigabit WiFi, Windows 10 - FX504GD-NH51",
+		"Label": "Negative",
+		"Confidence": 0.6357189946
+	},
+	{
+		"Model": "Asus TUF Gaming Laptop FX504 15.6\" Full HD IPS-Level, 8th Gen Intel Core i5-8300H (Up to 3.9GHz), GeForce GTX 1050, 8GB DDR4 2666MHz, 256GB M.2 SSD, Gigabit WiFi, Windows 10 - FX504GD-NH51",
+		"Label": "Negative",
+		"Confidence": 0.6451444259
+	},
+	{
+		"Model": "Asus TUF Gaming Laptop FX504 15.6\" Full HD IPS-Level, 8th Gen Intel Core i5-8300H (Up to 3.9GHz), GeForce GTX 1050, 8GB DDR4 2666MHz, 256GB M.2 SSD, Gigabit WiFi, Windows 10 - FX504GD-NH51",
+		"Label": "Positive",
+		"Confidence": 0.5284408858
+	},
+	{
+		"Model": "Asus TUF Gaming Laptop FX504 15.6\" Full HD IPS-Level, 8th Gen Intel Core i5-8300H (Up to 3.9GHz), GeForce GTX 1050, 8GB DDR4 2666MHz, 256GB M.2 SSD, Gigabit WiFi, Windows 10 - FX504GD-NH51",
+		"Label": "Positive",
+		"Confidence": 0.8962972272
+	},
+	{
+		"Model": "Asus TUF Gaming Laptop FX504 15.6\" Full HD IPS-Level, 8th Gen Intel Core i5-8300H (Up to 3.9GHz), GeForce GTX 1050, 8GB DDR4 2666MHz, 256GB M.2 SSD, Gigabit WiFi, Windows 10 - FX504GD-NH51",
+		"Label": "Negative",
+		"Confidence": 0.6741194971
+	},
+	{
+		"Model": "ASUS TUF (2019) Gaming Laptop, 15.6\" 120Hz FHD IPS-Type, AMD Ryzen 7 R7-3750H, GeForce GTX 1660 Ti, 16GB DDR4, 256GB PCIe SSD + 1TB HDD, Gigabit Wi-Fi 5, RGB KB, Windows 10 Home, TUF505DU-EB74",
+		"Label": "Positive",
+		"Confidence": 0.981866771
+	},
+	{
+		"Model": "ASUS TUF (2019) Gaming Laptop, 15.6\" 120Hz FHD IPS-Type, AMD Ryzen 7 R7-3750H, GeForce GTX 1660 Ti, 16GB DDR4, 256GB PCIe SSD + 1TB HDD, Gigabit Wi-Fi 5, RGB KB, Windows 10 Home, TUF505DU-EB74",
+		"Label": "Negative",
+		"Confidence": 0.7441008591
+	},
+	{
+		"Model": "ASUS TUF (2019) Gaming Laptop, 15.6\" 120Hz FHD IPS-Type, AMD Ryzen 7 R7-3750H, GeForce GTX 1660 Ti, 16GB DDR4, 256GB PCIe SSD + 1TB HDD, Gigabit Wi-Fi 5, RGB KB, Windows 10 Home, TUF505DU-EB74",
+		"Label": "Positive",
+		"Confidence": 0.7639860563
+	},
+	{
+		"Model": "ASUS TUF (2019) Gaming Laptop, 15.6\" 120Hz FHD IPS-Type, AMD Ryzen 7 R7-3750H, GeForce GTX 1660 Ti, 16GB DDR4, 256GB PCIe SSD + 1TB HDD, Gigabit Wi-Fi 5, RGB KB, Windows 10 Home, TUF505DU-EB74",
+		"Label": "Positive",
+		"Confidence": 0.9978995279
+	},
+	{
+		"Model": "ASUS TUF (2019) Gaming Laptop, 15.6\" 120Hz FHD IPS-Type, AMD Ryzen 7 R7-3750H, GeForce GTX 1660 Ti, 16GB DDR4, 256GB PCIe SSD + 1TB HDD, Gigabit Wi-Fi 5, RGB KB, Windows 10 Home, TUF505DU-EB74",
+		"Label": "Negative",
+		"Confidence": 0.9911743695
+	},
+	{
+		"Model": "ASUS TUF (2019) Gaming Laptop, 15.6\" 120Hz FHD IPS-Type, AMD Ryzen 7 R7-3750H, GeForce GTX 1660 Ti, 16GB DDR4, 256GB PCIe SSD + 1TB HDD, Gigabit Wi-Fi 5, RGB KB, Windows 10 Home, TUF505DU-EB74",
+		"Label": "Positive",
+		"Confidence": 0.7327485083
+	},
+	{
+		"Model": "ASUS TUF (2019) Gaming Laptop, 15.6\" 120Hz FHD IPS-Type, AMD Ryzen 7 R7-3750H, GeForce GTX 1660 Ti, 16GB DDR4, 256GB PCIe SSD + 1TB HDD, Gigabit Wi-Fi 5, RGB KB, Windows 10 Home, TUF505DU-EB74",
+		"Label": "Negative",
+		"Confidence": 0.9412974782
+	},
+	{
+		"Model": "ASUS TUF (2019) Gaming Laptop, 15.6\" 120Hz FHD IPS-Type, AMD Ryzen 7 R7-3750H, GeForce GTX 1660 Ti, 16GB DDR4, 256GB PCIe SSD + 1TB HDD, Gigabit Wi-Fi 5, RGB KB, Windows 10 Home, TUF505DU-EB74",
+		"Label": "Negative",
+		"Confidence": 0.9900635221
+	},
+	{
+		"Model": "ASUS TUF (2019) Gaming Laptop, 15.6\" 120Hz FHD IPS-Type, AMD Ryzen 7 R7-3750H, GeForce GTX 1660 Ti, 16GB DDR4, 256GB PCIe SSD + 1TB HDD, Gigabit Wi-Fi 5, RGB KB, Windows 10 Home, TUF505DU-EB74",
+		"Label": "Positive",
+		"Confidence": 0.928783126
+	},
+	{
+		"Model": "ASUS TUF (2019) Gaming Laptop, 15.6\" 120Hz FHD IPS-Type, AMD Ryzen 7 R7-3750H, GeForce GTX 1660 Ti, 16GB DDR4, 256GB PCIe SSD + 1TB HDD, Gigabit Wi-Fi 5, RGB KB, Windows 10 Home, TUF505DU-EB74",
+		"Label": "Negative",
+		"Confidence": 0.996823012
+	},
+	{
+		"Model": "HP Newest 14\" Hd Premium Business Laptop Pc | 10Th Gen Intel Quad-Core I5-1035G1 Up To 3.6Ghz | 8Gb Ram | 256Gb Ssd | Wifi | Hdmi | Card Reader | Bluetooth | Windows 10 | Silver",
+		"Label": "Positive",
+		"Confidence": 0.9709900026
+	},
+	{
+		"Model": "HP Newest 14\" Hd Premium Business Laptop Pc | 10Th Gen Intel Quad-Core I5-1035G1 Up To 3.6Ghz | 8Gb Ram | 256Gb Ssd | Wifi | Hdmi | Card Reader | Bluetooth | Windows 10 | Silver",
+		"Label": "Negative",
+		"Confidence": 0.9980080119
+	},
+	{
+		"Model": "HP Newest 14\" Hd Premium Business Laptop Pc | 10Th Gen Intel Quad-Core I5-1035G1 Up To 3.6Ghz | 8Gb Ram | 256Gb Ssd | Wifi | Hdmi | Card Reader | Bluetooth | Windows 10 | Silver",
+		"Label": "Positive",
+		"Confidence": 0.9050188304
+	},
+	{
+		"Model": "HP Newest 14\" Hd Premium Business Laptop Pc | 10Th Gen Intel Quad-Core I5-1035G1 Up To 3.6Ghz | 8Gb Ram | 256Gb Ssd | Wifi | Hdmi | Card Reader | Bluetooth | Windows 10 | Silver",
+		"Label": "Positive",
+		"Confidence": 0.7847732692
+	},
+	{
+		"Model": "HP Newest 14\" Hd Premium Business Laptop Pc | 10Th Gen Intel Quad-Core I5-1035G1 Up To 3.6Ghz | 8Gb Ram | 256Gb Ssd | Wifi | Hdmi | Card Reader | Bluetooth | Windows 10 | Silver",
+		"Label": "Negative",
+		"Confidence": 0.9901361842
+	},
+	{
+		"Model": "HP Newest 14\" Hd Premium Business Laptop Pc | 10Th Gen Intel Quad-Core I5-1035G1 Up To 3.6Ghz | 8Gb Ram | 256Gb Ssd | Wifi | Hdmi | Card Reader | Bluetooth | Windows 10 | Silver",
+		"Label": "Negative",
+		"Confidence": 0.550749609
+	},
+	{
+		"Model": "HP Newest 14\" Hd Premium Business Laptop Pc | 10Th Gen Intel Quad-Core I5-1035G1 Up To 3.6Ghz | 8Gb Ram | 256Gb Ssd | Wifi | Hdmi | Card Reader | Bluetooth | Windows 10 | Silver",
+		"Label": "Negative",
+		"Confidence": 0.9942648848
+	},
+	{
+		"Model": "HP Newest 14\" Hd Premium Business Laptop Pc | 10Th Gen Intel Quad-Core I5-1035G1 Up To 3.6Ghz | 8Gb Ram | 256Gb Ssd | Wifi | Hdmi | Card Reader | Bluetooth | Windows 10 | Silver",
+		"Label": "Positive",
+		"Confidence": 0.6458084008
+	},
+	{
+		"Model": "HP Newest 14\" Hd Premium Business Laptop Pc | 10Th Gen Intel Quad-Core I5-1035G1 Up To 3.6Ghz | 8Gb Ram | 256Gb Ssd | Wifi | Hdmi | Card Reader | Bluetooth | Windows 10 | Silver",
+		"Label": "Negative",
+		"Confidence": 0.8619286891
+	},
+	{
+		"Model": "HP Newest 14\" Hd Premium Business Laptop Pc | 10Th Gen Intel Quad-Core I5-1035G1 Up To 3.6Ghz | 8Gb Ram | 256Gb Ssd | Wifi | Hdmi | Card Reader | Bluetooth | Windows 10 | Silver",
+		"Label": "Positive",
+		"Confidence": 0.963049163
+	},
+	{
+		"Model": "Lenovo Legion Y520 Gaming Laptop - i7-7700HQ, 16GB RAM, 256GB PCIe SSD, NVIDIA GTX 1060 (6GB), FHD IPS 1920x1080",
+		"Label": "Positive",
+		"Confidence": 0.9937399966
+	},
+	{
+		"Model": "Lenovo Legion Y520 Gaming Laptop - i7-7700HQ, 16GB RAM, 256GB PCIe SSD, NVIDIA GTX 1060 (6GB), FHD IPS 1920x1080",
+		"Label": "Negative",
+		"Confidence": 0.6428806855
+	},
+	{
+		"Model": "Lenovo Legion Y520 Gaming Laptop - i7-7700HQ, 16GB RAM, 256GB PCIe SSD, NVIDIA GTX 1060 (6GB), FHD IPS 1920x1080",
+		"Label": "Positive",
+		"Confidence": 0.7866460437
+	},
+	{
+		"Model": "Lenovo Legion Y520 Gaming Laptop - i7-7700HQ, 16GB RAM, 256GB PCIe SSD, NVIDIA GTX 1060 (6GB), FHD IPS 1920x1080",
+		"Label": "Positive",
+		"Confidence": 0.9752593394
+	},
+	{
+		"Model": "Lenovo Legion Y520 Gaming Laptop - i7-7700HQ, 16GB RAM, 256GB PCIe SSD, NVIDIA GTX 1060 (6GB), FHD IPS 1920x1080",
+		"Label": "Positive",
+		"Confidence": 0.9984124525
+	},
+	{
+		"Model": "Lenovo Legion Y520 Gaming Laptop - i7-7700HQ, 16GB RAM, 256GB PCIe SSD, NVIDIA GTX 1060 (6GB), FHD IPS 1920x1080",
+		"Label": "Negative",
+		"Confidence": 0.9867933457
+	},
+	{
+		"Model": "Lenovo Legion Y520 Gaming Laptop - i7-7700HQ, 16GB RAM, 256GB PCIe SSD, NVIDIA GTX 1060 (6GB), FHD IPS 1920x1080",
+		"Label": "Negative",
+		"Confidence": 0.9020392137
+	},
+	{
+		"Model": "Lenovo Legion Y520 Gaming Laptop - i7-7700HQ, 16GB RAM, 256GB PCIe SSD, NVIDIA GTX 1060 (6GB), FHD IPS 1920x1080",
+		"Label": "Positive",
+		"Confidence": 0.8231515429
+	},
+	{
+		"Model": "Lenovo Legion Y520 Gaming Laptop - i7-7700HQ, 16GB RAM, 256GB PCIe SSD, NVIDIA GTX 1060 (6GB), FHD IPS 1920x1080",
+		"Label": "Negative",
+		"Confidence": 0.5314107922
+	},
+	{
+		"Model": "Lenovo Legion Y520 Gaming Laptop - i7-7700HQ, 16GB RAM, 256GB PCIe SSD, NVIDIA GTX 1060 (6GB), FHD IPS 1920x1080",
+		"Label": "Positive",
+		"Confidence": 0.9902208494
+	},
+	{
+		"Model": "ASUS ZenScreen MB16AC 15.6\" Full HD IPS USB Type-C Portable Eye Care Monitor,Black",
+		"Label": "Negative",
+		"Confidence": 0.999250221
+	},
+	{
+		"Model": "ASUS ZenScreen MB16AC 15.6\" Full HD IPS USB Type-C Portable Eye Care Monitor,Black",
+		"Label": "Negative",
+		"Confidence": 0.9996571168
+	},
+	{
+		"Model": "ASUS ZenScreen MB16AC 15.6\" Full HD IPS USB Type-C Portable Eye Care Monitor,Black",
+		"Label": "Positive",
+		"Confidence": 0.9892145485
+	},
+	{
+		"Model": "ASUS ZenScreen MB16AC 15.6\" Full HD IPS USB Type-C Portable Eye Care Monitor,Black",
+		"Label": "Positive",
+		"Confidence": 0.9189691748
+	},
+	{
+		"Model": "ASUS ZenScreen MB16AC 15.6\" Full HD IPS USB Type-C Portable Eye Care Monitor,Black",
+		"Label": "Negative",
+		"Confidence": 0.9866584584
+	},
+	{
+		"Model": "ASUS ZenScreen MB16AC 15.6\" Full HD IPS USB Type-C Portable Eye Care Monitor,Black",
+		"Label": "Positive",
+		"Confidence": 0.5773014229
+	},
+	{
+		"Model": "ASUS ZenScreen MB16AC 15.6\" Full HD IPS USB Type-C Portable Eye Care Monitor,Black",
+		"Label": "Negative",
+		"Confidence": 0.9764781087
+	},
+	{
+		"Model": "ASUS ZenScreen MB16AC 15.6\" Full HD IPS USB Type-C Portable Eye Care Monitor,Black",
+		"Label": "Positive",
+		"Confidence": 0.9606870983
+	},
+	{
+		"Model": "ASUS ZenScreen MB16AC 15.6\" Full HD IPS USB Type-C Portable Eye Care Monitor,Black",
+		"Label": "Positive",
+		"Confidence": 0.8603805053
+	},
+	{
+		"Model": "ASUS ZenScreen MB16AC 15.6\" Full HD IPS USB Type-C Portable Eye Care Monitor,Black",
+		"Label": "Positive",
+		"Confidence": 0.9970816253
+	},
+	{
+		"Model": "ASUS Chromebook C202SA-YS02 11.6\" Ruggedized and Water Resistant Design with 180 Degree (Intel Celeron 4 GB, 16GB eMMC, Dark Blue, Silver)",
+		"Label": "Negative",
+		"Confidence": 0.9288597211
+	},
+	{
+		"Model": "ASUS Chromebook C202SA-YS02 11.6\" Ruggedized and Water Resistant Design with 180 Degree (Intel Celeron 4 GB, 16GB eMMC, Dark Blue, Silver)",
+		"Label": "Positive",
+		"Confidence": 0.924460262
+	},
+	{
+		"Model": "ASUS Chromebook C202SA-YS02 11.6\" Ruggedized and Water Resistant Design with 180 Degree (Intel Celeron 4 GB, 16GB eMMC, Dark Blue, Silver)",
+		"Label": "Positive",
+		"Confidence": 0.9986790711
+	},
+	{
+		"Model": "ASUS Chromebook C202SA-YS02 11.6\" Ruggedized and Water Resistant Design with 180 Degree (Intel Celeron 4 GB, 16GB eMMC, Dark Blue, Silver)",
+		"Label": "Positive",
+		"Confidence": 0.9716027003
+	},
+	{
+		"Model": "ASUS Chromebook C202SA-YS02 11.6\" Ruggedized and Water Resistant Design with 180 Degree (Intel Celeron 4 GB, 16GB eMMC, Dark Blue, Silver)",
+		"Label": "Positive",
+		"Confidence": 0.9881357485
+	},
+	{
+		"Model": "ASUS Chromebook C202SA-YS02 11.6\" Ruggedized and Water Resistant Design with 180 Degree (Intel Celeron 4 GB, 16GB eMMC, Dark Blue, Silver)",
+		"Label": "Positive",
+		"Confidence": 0.9984355276
+	},
+	{
+		"Model": "ASUS Chromebook C202SA-YS02 11.6\" Ruggedized and Water Resistant Design with 180 Degree (Intel Celeron 4 GB, 16GB eMMC, Dark Blue, Silver)",
+		"Label": "Negative",
+		"Confidence": 0.9975010754
+	},
+	{
+		"Model": "ASUS Chromebook C202SA-YS02 11.6\" Ruggedized and Water Resistant Design with 180 Degree (Intel Celeron 4 GB, 16GB eMMC, Dark Blue, Silver)",
+		"Label": "Negative",
+		"Confidence": 0.9322343021
+	},
+	{
+		"Model": "ASUS Chromebook C202SA-YS02 11.6\" Ruggedized and Water Resistant Design with 180 Degree (Intel Celeron 4 GB, 16GB eMMC, Dark Blue, Silver)",
+		"Label": "Negative",
+		"Confidence": 0.9990938091
+	},
+	{
+		"Model": "ASUS Chromebook C202SA-YS02 11.6\" Ruggedized and Water Resistant Design with 180 Degree (Intel Celeron 4 GB, 16GB eMMC, Dark Blue, Silver)",
+		"Label": "Positive",
+		"Confidence": 0.6165201388
+	},
+	{
+		"Model": "AmazonBasics USB 2.0 Cable - A-Male to Mini-B - 6 Feet (1.8 Meters)",
+		"Label": "Positive",
+		"Confidence": 0.9322034845
+	},
+	{
+		"Model": "AmazonBasics USB 2.0 Cable - A-Male to Mini-B - 6 Feet (1.8 Meters)",
+		"Label": "Negative",
+		"Confidence": 0.8604462806
+	},
+	{
+		"Model": "AmazonBasics USB 2.0 Cable - A-Male to Mini-B - 6 Feet (1.8 Meters)",
+		"Label": "Negative",
+		"Confidence": 0.725258064
+	},
+	{
+		"Model": "AmazonBasics USB 2.0 Cable - A-Male to Mini-B - 6 Feet (1.8 Meters)",
+		"Label": "Positive",
+		"Confidence": 0.8805985195
+	},
+	{
+		"Model": "AmazonBasics USB 2.0 Cable - A-Male to Mini-B - 6 Feet (1.8 Meters)",
+		"Label": "Positive",
+		"Confidence": 0.5079568424
+	},
+	{
+		"Model": "AmazonBasics USB 2.0 Cable - A-Male to Mini-B - 6 Feet (1.8 Meters)",
+		"Label": "Negative",
+		"Confidence": 0.9206288536
+	},
+	{
+		"Model": "AmazonBasics USB 2.0 Cable - A-Male to Mini-B - 6 Feet (1.8 Meters)",
+		"Label": "Positive",
+		"Confidence": 0.9242820277
+	},
+	{
+		"Model": "AmazonBasics USB 2.0 Cable - A-Male to Mini-B - 6 Feet (1.8 Meters)",
+		"Label": "Positive",
+		"Confidence": 0.8855305353
+	},
+	{
+		"Model": "AmazonBasics USB 2.0 Cable - A-Male to Mini-B - 6 Feet (1.8 Meters)",
+		"Label": "Positive",
+		"Confidence": 0.7827894183
+	},
+	{
+		"Model": "AmazonBasics USB 2.0 Cable - A-Male to Mini-B - 6 Feet (1.8 Meters)",
+		"Label": "Negative",
+		"Confidence": 0.9782666129
+	},
+	{
+		"Model": "MeFee Laptop Stand Adjustable Laptop Computer Stand Multi-Angle Stand Phone Stand Portable Foldable Laptop Riser Notebook Holder Stand Compatible for 9 to 15.6&rdquo; Laptops Black",
+		"Label": "Negative",
+		"Confidence": 0.5473570724
+	},
+	{
+		"Model": "MeFee Laptop Stand Adjustable Laptop Computer Stand Multi-Angle Stand Phone Stand Portable Foldable Laptop Riser Notebook Holder Stand Compatible for 9 to 15.6&rdquo; Laptops Black",
+		"Label": "Positive",
+		"Confidence": 0.9880736714
+	},
+	{
+		"Model": "MeFee Laptop Stand Adjustable Laptop Computer Stand Multi-Angle Stand Phone Stand Portable Foldable Laptop Riser Notebook Holder Stand Compatible for 9 to 15.6&rdquo; Laptops Black",
+		"Label": "Positive",
+		"Confidence": 0.9675563641
+	},
+	{
+		"Model": "MeFee Laptop Stand Adjustable Laptop Computer Stand Multi-Angle Stand Phone Stand Portable Foldable Laptop Riser Notebook Holder Stand Compatible for 9 to 15.6&rdquo; Laptops Black",
+		"Label": "Positive",
+		"Confidence": 0.6893291604
+	},
+	{
+		"Model": "MeFee Laptop Stand Adjustable Laptop Computer Stand Multi-Angle Stand Phone Stand Portable Foldable Laptop Riser Notebook Holder Stand Compatible for 9 to 15.6&rdquo; Laptops Black",
+		"Label": "Positive",
+		"Confidence": 0.996418153
+	},
+	{
+		"Model": "MeFee Laptop Stand Adjustable Laptop Computer Stand Multi-Angle Stand Phone Stand Portable Foldable Laptop Riser Notebook Holder Stand Compatible for 9 to 15.6&rdquo; Laptops Black",
+		"Label": "Positive",
+		"Confidence": 0.9769742838
+	},
+	{
+		"Model": "MeFee Laptop Stand Adjustable Laptop Computer Stand Multi-Angle Stand Phone Stand Portable Foldable Laptop Riser Notebook Holder Stand Compatible for 9 to 15.6&rdquo; Laptops Black",
+		"Label": "Positive",
+		"Confidence": 0.9791346279
+	},
+	{
+		"Model": "MeFee Laptop Stand Adjustable Laptop Computer Stand Multi-Angle Stand Phone Stand Portable Foldable Laptop Riser Notebook Holder Stand Compatible for 9 to 15.6&rdquo; Laptops Black",
+		"Label": "Positive",
+		"Confidence": 0.6647537199
+	},
+	{
+		"Model": "MeFee Laptop Stand Adjustable Laptop Computer Stand Multi-Angle Stand Phone Stand Portable Foldable Laptop Riser Notebook Holder Stand Compatible for 9 to 15.6&rdquo; Laptops Black",
+		"Label": "Positive",
+		"Confidence": 0.8340452824
+	},
+	{
+		"Model": "MeFee Laptop Stand Adjustable Laptop Computer Stand Multi-Angle Stand Phone Stand Portable Foldable Laptop Riser Notebook Holder Stand Compatible for 9 to 15.6&rdquo; Laptops Black",
+		"Label": "Positive",
+		"Confidence": 0.7113510957
+	},
+	{
+		"Model": "Lenovo Ideapad L340 Gaming Laptop, 15.6 Inch FHD (1920 X 1080) IPS Display, Intel Core i5-9300H Processor, 8GB DDR4 RAM, 512GB Nvme SSD, NVIDIA GeForce GTX 1650, Windows 10, 81LK00HDUS, Black",
+		"Label": "Negative",
+		"Confidence": 0.8070835154
+	},
+	{
+		"Model": "Lenovo Ideapad L340 Gaming Laptop, 15.6 Inch FHD (1920 X 1080) IPS Display, Intel Core i5-9300H Processor, 8GB DDR4 RAM, 512GB Nvme SSD, NVIDIA GeForce GTX 1650, Windows 10, 81LK00HDUS, Black",
+		"Label": "Negative",
+		"Confidence": 0.885111836
+	},
+	{
+		"Model": "Lenovo Ideapad L340 Gaming Laptop, 15.6 Inch FHD (1920 X 1080) IPS Display, Intel Core i5-9300H Processor, 8GB DDR4 RAM, 512GB Nvme SSD, NVIDIA GeForce GTX 1650, Windows 10, 81LK00HDUS, Black",
+		"Label": "Negative",
+		"Confidence": 0.9924518326
+	},
+	{
+		"Model": "Lenovo Ideapad L340 Gaming Laptop, 15.6 Inch FHD (1920 X 1080) IPS Display, Intel Core i5-9300H Processor, 8GB DDR4 RAM, 512GB Nvme SSD, NVIDIA GeForce GTX 1650, Windows 10, 81LK00HDUS, Black",
+		"Label": "Positive",
+		"Confidence": 0.9492600252
+	},
+	{
+		"Model": "Lenovo Ideapad L340 Gaming Laptop, 15.6 Inch FHD (1920 X 1080) IPS Display, Intel Core i5-9300H Processor, 8GB DDR4 RAM, 512GB Nvme SSD, NVIDIA GeForce GTX 1650, Windows 10, 81LK00HDUS, Black",
+		"Label": "Negative",
+		"Confidence": 0.9791672578
+	},
+	{
+		"Model": "Lenovo Ideapad L340 Gaming Laptop, 15.6 Inch FHD (1920 X 1080) IPS Display, Intel Core i5-9300H Processor, 8GB DDR4 RAM, 512GB Nvme SSD, NVIDIA GeForce GTX 1650, Windows 10, 81LK00HDUS, Black",
+		"Label": "Negative",
+		"Confidence": 0.7851387042
+	},
+	{
+		"Model": "Lenovo Ideapad L340 Gaming Laptop, 15.6 Inch FHD (1920 X 1080) IPS Display, Intel Core i5-9300H Processor, 8GB DDR4 RAM, 512GB Nvme SSD, NVIDIA GeForce GTX 1650, Windows 10, 81LK00HDUS, Black",
+		"Label": "Negative",
+		"Confidence": 0.5486429618
+	},
+	{
+		"Model": "Lenovo Ideapad L340 Gaming Laptop, 15.6 Inch FHD (1920 X 1080) IPS Display, Intel Core i5-9300H Processor, 8GB DDR4 RAM, 512GB Nvme SSD, NVIDIA GeForce GTX 1650, Windows 10, 81LK00HDUS, Black",
+		"Label": "Positive",
+		"Confidence": 0.7241290349
+	},
+	{
+		"Model": "Lenovo Ideapad L340 Gaming Laptop, 15.6 Inch FHD (1920 X 1080) IPS Display, Intel Core i5-9300H Processor, 8GB DDR4 RAM, 512GB Nvme SSD, NVIDIA GeForce GTX 1650, Windows 10, 81LK00HDUS, Black",
+		"Label": "Positive",
+		"Confidence": 0.8413753352
+	},
+	{
+		"Model": "Lenovo Ideapad L340 Gaming Laptop, 15.6 Inch FHD (1920 X 1080) IPS Display, Intel Core i5-9300H Processor, 8GB DDR4 RAM, 512GB Nvme SSD, NVIDIA GeForce GTX 1650, Windows 10, 81LK00HDUS, Black",
+		"Label": "Positive",
+		"Confidence": 0.9967923798
+	},
+	{
+		"Model": "Acer Aspire 5 Slim Laptop, 15.6\" Full HD IPS Display, 8th Gen Intel Core i5-8265U, NVIDIA GeForce MX250, 8GB DDR4, 512GB PCIe NVMe SSD, Windows 10 Home, A515-54G-5928",
+		"Label": "Negative",
+		"Confidence": 0.896936035
+	},
+	{
+		"Model": "Acer Aspire 5 Slim Laptop, 15.6\" Full HD IPS Display, 8th Gen Intel Core i5-8265U, NVIDIA GeForce MX250, 8GB DDR4, 512GB PCIe NVMe SSD, Windows 10 Home, A515-54G-5928",
+		"Label": "Negative",
+		"Confidence": 0.9979672488
+	},
+	{
+		"Model": "Acer Aspire 5 Slim Laptop, 15.6\" Full HD IPS Display, 8th Gen Intel Core i5-8265U, NVIDIA GeForce MX250, 8GB DDR4, 512GB PCIe NVMe SSD, Windows 10 Home, A515-54G-5928",
+		"Label": "Positive",
+		"Confidence": 0.9639711835
+	},
+	{
+		"Model": "Acer Aspire 5 Slim Laptop, 15.6\" Full HD IPS Display, 8th Gen Intel Core i5-8265U, NVIDIA GeForce MX250, 8GB DDR4, 512GB PCIe NVMe SSD, Windows 10 Home, A515-54G-5928",
+		"Label": "Positive",
+		"Confidence": 0.9960886834
+	},
+	{
+		"Model": "Acer Aspire 5 Slim Laptop, 15.6\" Full HD IPS Display, 8th Gen Intel Core i5-8265U, NVIDIA GeForce MX250, 8GB DDR4, 512GB PCIe NVMe SSD, Windows 10 Home, A515-54G-5928",
+		"Label": "Negative",
+		"Confidence": 0.985951846
+	},
+	{
+		"Model": "Acer Aspire 5 Slim Laptop, 15.6\" Full HD IPS Display, 8th Gen Intel Core i5-8265U, NVIDIA GeForce MX250, 8GB DDR4, 512GB PCIe NVMe SSD, Windows 10 Home, A515-54G-5928",
+		"Label": "Positive",
+		"Confidence": 0.9780622468
+	},
+	{
+		"Model": "Acer Aspire 5 Slim Laptop, 15.6\" Full HD IPS Display, 8th Gen Intel Core i5-8265U, NVIDIA GeForce MX250, 8GB DDR4, 512GB PCIe NVMe SSD, Windows 10 Home, A515-54G-5928",
+		"Label": "Positive",
+		"Confidence": 0.7684300075
+	},
+	{
+		"Model": "Acer Aspire 5 Slim Laptop, 15.6\" Full HD IPS Display, 8th Gen Intel Core i5-8265U, NVIDIA GeForce MX250, 8GB DDR4, 512GB PCIe NVMe SSD, Windows 10 Home, A515-54G-5928",
+		"Label": "Positive",
+		"Confidence": 0.5732580121999999
+	},
+	{
+		"Model": "Acer Aspire 5 Slim Laptop, 15.6\" Full HD IPS Display, 8th Gen Intel Core i5-8265U, NVIDIA GeForce MX250, 8GB DDR4, 512GB PCIe NVMe SSD, Windows 10 Home, A515-54G-5928",
+		"Label": "Negative",
+		"Confidence": 0.9919057234
+	},
+	{
+		"Model": "Acer Aspire 5 Slim Laptop, 15.6\" Full HD IPS Display, 8th Gen Intel Core i5-8265U, NVIDIA GeForce MX250, 8GB DDR4, 512GB PCIe NVMe SSD, Windows 10 Home, A515-54G-5928",
+		"Label": "Positive",
+		"Confidence": 0.507783644
+	}
+]
